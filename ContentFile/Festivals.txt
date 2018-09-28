@@ -1,0 +1,211 @@
+1,27/08/2018,Isti
+2,27/08/2018,Ashoonya Shayanaya Vrata
+3,27/08/2018,Chandrodaya 07:45 PM
+4,28/08/2018,Raghavendra Pooje
+5,28/08/2018,Mangalagowri
+6,28/08/2018,Raghavendra Aradhane (Mantralaya)
+7,07/09/2018,Satyadharma Teertha Pooje(Holehonnuru)
+8,08/09/2018,Masa Shivaratri
+9,09/09/2018,Anvadhana
+10,09/09/2018,Vishnupamchaka
+11,09/09/2018,Benakana amavasya
+12,09/09/2018,Kusha grahana
+13,09/09/2018,Darsha
+14,10/09/2018,Proshtapadi prarambha
+15,10/09/2018,Ishti
+16,11/09/2018,Balarama jayanti
+17,11/09/2018,Dhanvantari jayanti
+18,11/09/2018,Chandradarshana
+19,11/09/2018,Samaveda Upakarana
+20,12/09/2018,Varaha jayanti
+21,12/09/2018,Swarnagauri vrata
+22,12/09/2018,Taapasa manvadi
+23,13/09/2018,Ganesha Chaturthi
+24,14/09/2018,Rishi panchami vrata
+25,15/09/2018,Suya Shashti
+26,15/09/2018,Prathah Snanadinda ashvamedh phala
+27,15/09/2018,Jyeshtha devyavahana
+28,16/09/2018,Jyeshtha gauri puja
+29,17/09/2018,Jyeshthadevi visarjana
+30,17/09/2018,Darakattikolluvadu after 07:40am
+31,17/09/2018,Maasa mahalakshmi kalashavisarjana
+32,17/09/2018,Shadasheeti parva punya kala after 12:20pm
+33,18/09/2018,Jagannatha dasara pu.(Maanvi)
+34,20/09/2018,Sarvesham Ekadashi (Parivartini)
+35,20/09/2018,Ksheera vrat aarambha
+36,20/09/2018,Satyeshtatirtha pu.(Atakur)
+37,21/09/2018,Shravana Dwadashi
+38,21/09/2018,Upavasa
+39,21/09/2018,Vamana jayanti
+40,21/09/2018,Prasanna Venkaadasara pu.(Badadmi)
+41,23/09/2018,Anant Vrata
+42,24/09/2018,Proshthapadi shraddha
+43,24/09/2018,Anvadhana
+44,25/09/2018,Vishnupanchaka Abhava
+45,25/09/2018,Anant Hunnive
+46,25/09/2018,Uma Maheshwara Vruta
+47,25/09/2018,Mahalaya Arambha
+48,25/09/2018,Isti
+49,25/09/2018,Yadavarya pu.(Munavalli)
+50,26/09/2018,Ashoonyashayana vrata-chandrodaya 07:08pm
+51,27/09/2018,Shrinivasa teertha pu.(Honnali)
+52,27/09/2018,Gaja Gauri Ahavana after 02:53am
+53,28/09/2018,Brihad gauri vrata
+54,28/09/2018,Mahabharani shraddha
+55,01/10/2018,Poorvedyu shraddha
+56,02/10/2018,Madhyashtami shraddha
+57,02/10/2018,Ashtaka shraddha
+58,03/10/2018,Avidhana navami shraddha
+59,03/10/2018,Anwashtaka shraddha
+60,04/10/2018,Gurupushyamruta yoga
+61,05/10/2018,Sarvesham Ekadashi(Indira)
+62,06/10/2018,Sanyasigala mahalaya
+63,06/10/2018,Pradosha
+64,06/10/2018,Kaliyugadi
+65,07/10/2018,Masa Shivaratri
+66,07/10/2018,Ghata Chaturdashi shraddha
+67,08/10/2018,Darsha
+68,08/10/2018,Sarvapitra Amavasya
+69,08/10/2018,Anvadhana
+70,09/10/2018,Madhava teertaru pu.(Mannur)
+80,09/10/2018,Matamahashraddha
+81,09/10/2018,Vishnu Panchaka
+82,09/10/2018,Isti
+83,10/10/2018,Navarathri begins
+84,10/10/2018,Kalasha sthapana
+85,10/10/2018,Chandra darshana
+86,12/10/2018,Saptharatrotsava begins
+87,14/10/2018,Pancharatrosava begins
+88,14/10/2018,Saraswathi Ahavana after 02:52pm
+89,16/10/2018,Triratrosava begins
+90,16/10/2018,Saraswathi Pooja
+91,16/10/2018,Satyaparakrama Teertha pu.(Santebidanur)
+92,17/10/2018,Durgashtami
+93,17/10/2018,Satyaparakrama Teertha pu.(Chittapur)
+94,18/10/2018,Mahanavami
+95,18/10/2018,Vijaya Dashami
+96,18/10/2018,Saraswathi Visarjana
+97,18/10/2018,Vishnupanchaka
+98,18/10/2018,Swaarochisha Manvaadi
+99,18/10/2018,Vishnuvataparva punya kala till 08:16am
+100,19/10/2018,Budha jayanti
+101,19/10/2018,Shri Madhwa jayanti
+102,20/10/2018,Sarvesham Ekadashi
+103,20/10/2018,Dwidala Vratha begins
+104,22/10/2018,Pradosha
+105,23/10/2018,Kojaagara Vratha
+106,24/10/2018,Kartika snana arambha
+107,24/10/2018,Nakshatra Deeparmbha
+108,24/10/2018,Vishnupanchaka
+109,24/10/2018,Shigehunnive
+110,24/10/2018,Anvadhana
+111,25/10/2018,Isti
+112,26/10/2018,Ashoonya Shayana vrata
+113,26/10/2018,Chandrodaya at 7:35pm
+114,31/10/2018,Kalashtami
+115,03/11/2018,Smarthanam Ekadashi
+116,03/11/2018,Harivasara after 9:10 PM
+117,04/11/2018,Bhagavatanam Ekadashi 
+118,05/11/2018,Govatsa Dwadashi
+119,05/11/2018,Pradosha 
+120,05/11/2018,Dhana Thrayodashi 
+121,05/11/2018,Jala Poorna Thrayodashi
+122,05/11/2018,Yama Deepa daana
+123,05/11/2018,Masa Shivaratri
+124,06/11/2018,Naraka Chaturdashi
+125,06/11/2018,Chandrodaya at 5:06 AM 
+126,06/11/2018,Abhyanga
+127,06/11/2018,Yama Tarpana
+128,07/11/2018,Darsha
+129,07/11/2018,Vishnu Panchaka
+130,07/11/2018,Mahalakshmi Pooja
+131,07/11/2018,Deepavali Amavaya
+132,07/11/2018,Anvaadhaana
+133,08/11/2018,Bali  Pratipada
+134,08/11/2018,Abhyanga
+135,08/11/2018,Maha Abhisheka at Uttaradi Math
+136,08/11/2018,Vikrama Samvatsara 2075
+137,08/11/2018,Ishti
+138,08/11/2018,Govaradhan Pooja
+139,09/11/2018,Yama Dwitiya (Bhagini hastena bhojana)
+140,09/11/2018,Chandra darshana
+141,10/11/2018,Bhagini Tritiya
+142,10/11/2018,Satyapramoda Teertha Pu. (Tirukoilur)
+143,10/11/2018,Mahasamaradhana at Uttaradi Math
+144,13/11/2018,Vedesha Teertha Pu. (Mannur)
+145,14/11/2018,Kalpaadi
+146,14/11/2018,Vishnu Panchaka Abhava
+147,15/11/2018,Durgashtami
+148,15/11/2018,Gopastami
+149,16/11/2018,Mahalaya Gaun Kaal Samapti
+150,17/11/2018,Krutha Yugadi
+151,17/11/2018,Vishnupada parva punya kala till 12:09 PM
+152,18/11/2018,Satyaveera Teertha Pu. (Korlahalli)
+153,18/11/2018,Vijaya Dasara Pu. (Chippagiri)
+154,19/11/2018,Sarvesham Ekadashi (Prabhodhini)
+155,19/11/2018,Chaturmasya ends
+156,19/11/2018,Vedanidhi Teertha Pu. (Pandarapur)
+157,19/11/2018,Dvidala Vratha ends
+158,19/11/2018,Bheeshma Panchaka begins
+159,20/11/2018,Uttana Dwadashi
+160,20/11/2018,Tulasi Vivaha
+161,20/11/2018,Evening Pooja of Sri Moola Rama Devaru
+162,20/11/2018,Manvadi
+163,21/11/2018,Vaikunta Chaturdashi
+164,21/11/2018,Dhaatri Pooja
+165,22/11/2018,Anvaadhaana
+166,23/11/2018,Ishti
+167,23/11/2018,Vyasa Pooja
+168,23/11/2018,Kartika Snana ends
+169,23/11/2018,Gauri Hunnime
+170,23/11/2018,Dakshasaavarni Manvaadi
+171,23/11/2018,Bheeshma Panchaka ends
+171,23/11/2018,Vishnu Panchaka
+172,25/11/2018,SHri Satyapramoda Teerthara Samaradhane
+173,26/11/2018,Vidyanidhi Teertha pu (Yaragola)
+174,29/11/2018,Kaalashtami
+175,29/11/2018,Kaala Bhairavi Jayanthi
+176,03/12/2018,Sarvesham Ekadashi
+177,04/12/2018,Pradosha
+178,05/12/2018,Masa Shivaratri
+179,06/12,2018,Padmanabha Teertha pu (Nava Brindavana)
+180,06/12,2018,Darsha
+181,07/12/2018,Vishnu Panchaka
+182,07/12/2018,Mahipathi Dasara Pu (Kakhandaki)
+183,07/12/2018,Chattee Amavasya
+184,07/12/2018,Anvaadhaana
+185,08/12/2018,Isti
+186,08/12/2018,Chandradarshana
+187,10/12/2018,Raghuveeratirtha pu (Kudali)
+188,12/12/2018,Sankarshanavadeyara pu (Karamapundi)
+189,13/12/2018,Vishnupanchaka Vruta grahana
+190,13/12/2018,Skandashashthi
+191,13/12/2018,Champashashthi
+192,15/12/2018,Durgashtami
+193,15/12/2018,Bhimajayanti
+194,16/12/2018,Kalpadi
+195,16/12/2018,Shadasheevat punya kala
+196,17/12/2018,Satyanidhitirtha pu (Karnoolu)
+197,17/12/2018,Dhanurmasa Arambha
+198,17/12/2018,Desha Bheda Ekadashi
+199,18/12/2018,Ekadashi
+200,18/12/2018,Geeta Jayanti
+201,18/12/2018,Satyanathatirtha pu (Viracholapura)
+202,19/12/2018,Mukkotidvadashi
+203,20/12/2018,Pradosha
+204,20/12/2018,Hanumadvrata
+205,20/12/2018,Satenalli shantesha kartikotsava
+206,22/12/2018,Dattajayanti
+207,22/12/2018,Vishnupanchaka
+208,22/12/2018,Mannur Chennakeshavotsava
+209,22/12/2018,Shrimathadalli sahasrashankhabhisheka
+210,22/12/2018,Motampalli Bhimasenarathotsava
+211,22/12/2018,Anvadhana
+212,22/12/2018,Hostiluhannime
+213,23/12/2018,Ragunathatirtha pu (Malakheda)
+214,27/12/2018,Akshobhyatirtha pu (Malakheda)
+215,28/12/2018,Poorvedyu shraddha
+216,29/12/2018,Kalashtami
+217,29/12/2018,Astaka Shradha
+218,30/12/2018,Anvashtakashraddha
+219,31/12/2018,Deshabedha Ekadashi

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ContentFile/Festivals.txt</file>
+        <file>ContentFile/Panchanga.txt</file>
+    </qresource>
+</RCC>

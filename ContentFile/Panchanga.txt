@@ -1,0 +1,221 @@
+27 Aug 2018,6:13,6:44,Dakshinayana,Varsha,Dhanya Shridhara,Shravana,Krishna,Pratipada(1),Indu Vasara,Shathbhisha,Sukarma,Kaulava,No Information,Shubha
+28 Aug 2018,6:13,6:44,Dakshinayana,Varsha,Dhanya Shridhara,Shravana,Krishna,Dvitiya(2),Bhauma Vasara,Poorva Bhadrapada,Dhruti,Garaja,No Information,Shubha
+29 Aug 2018,6:14,6:45,Dakshinayana,Varsha,Dhanya Shridhara,Shravana,Krishna,Tritiya(3),Saumya Vasara,Uttara Bhadrapada,Shoola,Vanik,No Information,Ashubha
+30 Aug 2018,6:14,6:45,Dakshinayana,Varsha,Dhanya Shridhara,Shravana,Krishna,Chaturthi(4),Guru Vasara,Revati,Ganda,Bava,No Information,shubha
+31 Aug 2018,6:14,6:45,Dakshinayana,Varsha,Dhanya Shridhara,Shravana,Krishna,Panchami(5),Guru Vasara,Revati,Ganda,Bava,No Information,shubha
+01 Sep 2018,6:14,6:41,Dakshinayana,Varsha,Dhanya Shridhara,Shravana,Krishna,Shahsti(6),Guru Vasara,Revati,Ganda,Bava,No Information,shubha
+02 Sep 2018,6:14,6:40,Dakshinayana,Varsha,Dhanya Shridhara,Shravana,Krishna,Saptami(0),Guru Vasara,Revati,Ganda,Bava,No Information,shubha
+03 Sep 2018,6:14,6:39,Dakshinayana,Varsha,Dhanya Shridhara,Shravana,Krishna,Astami(7,8,9),Indu Vasara,Rohini,Harshana,Kaulava,No Information,shubha
+04 Sep 2018,6:14,6:38,Dakshinayana,Varsha,Dhanya Shridhara,Shravana,Krishna,Navami(10),Bhauma Vasara,Mrugashira,Vajra,Garaja,No Information,shubha
+05 Sep 2018,6:14,6:37,Dakshinayana,Varsha,Dhanya Shridhara,Shravana,Krishna,Dashami(0),Saumya Vasara,Aridra,Siddhi Vyatipata,Bhadra,No Information,shubha
+06 Sep 2018,6:14,6:37,Dakshinayana,Varsha,Dhanya Shridhara,Shravana,Krishna,Ekadashi(0),Guru Vasara,Punarvasu,Variyan,Balava,No Information,shubha
+07 Sep 2018,6:14,6:46,Dakshinayana,Varsha,Dhanya Shridhara,Shravana,Krishna,Dwadashi Trayodashi(11,12,13),Bhrugu Vasara,Pushya,Parigha,Taitila,No Information,shubha
+08 Sep 2018,6:14,6:40,Dakshinayana,Varsha,Dhanya Shridhara,Shravana,Krishna,Chaturdashi(14),Sthira Vasara,Ashlesha,Shiva,Bhadra,No Information,shubha
+09 Sep 2018,6:15,6:34,Dakshinayana,Varsha,Shri Dhanya Shreedhar,Shravana,Krishna,Amavasya(30),Ravi Vasara,Magha,Siddha,Chatuspat,Darsha,Ashubha
+10 Sep 2018,6:15,6:33,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Shukla,Pratipada(1),Indu Vasara,Poorva Phalguni Uttara Phalguni,Sadhya,Sinsthugna,No Information,10:09 After Uttam
+11 Sep 2018,6:15,6:33,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Shukla,Dwitiya(2),Bhauma vasara,Hasta,Shubha,Balava,No Information,Shubha
+12 Sep 2018,6:15,6:32,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Shukla,Tritiya(3),Saumya vasara,Chitra,Shukla,Taitila,No Information,Shubha
+13 Sep 2018,6:15,6:31,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Shukla,Chaturthi(4),Guru vasara,Swati,Brahma;Aindra,Bhadra,No Information,15:00 After Shubha
+14 Sep 2018,6:15,6:30,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Shukla,Panchami(5),Bhrugu vasara,Vishaka,Vaidhriti,Balava,No Information,Ashubha
+15 Sep 2018,6:15,6:29,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Shukla,Shashthi(6),Sthira vasara,Anuradha,Vishkamba,Taitila,No Information,Shubha
+16 Sep 2018,6:15,6:29,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Shukla,Saptami(7),Ravi vasara,Jyestha,Preeti,Vanik,No Information,Ashubha
+17 Sep 2018,6:15,6:28,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Shukla,Astami(8),Indu vasara,Jyestha,Ayushman,Bhadra,No Information,Ashubha
+18 Sep 2018,6:16,2:27,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Shukla,Navami(9),Bhauma vasara,Moola,Soubhagya,Balava,No Information,Ashubha
+19 Sep 2018,6:16,6:26,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Shukla,Dashami(10),Saumya vasara,Poorvashadha,Shobhana,Taitila,No Information,10:38 After Uttam
+20 Sep 2018,6:16,6:25,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Shukla,Ekadashi(0),Guru vasara,Uttarashadha,Atiganda,Vanik,No Information,12:00 Till Uttam
+21 Sep 2018,6:16,6:24,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Shukla,Dwadashi(0),Bhrugu vasara,Shravana,Sukarma,Bava,No Information,Shubha
+22 Sep 2018,6:16,6:24,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Shukla,Trayodashi(11/12/13),Sthira vasara,Dhanishta,Dhruti,Kaulava,No Information,Shubha
+23 Sep 2018,6:16,6:23,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Shukla,Chaturdashi(14),Ravi vasara,Shatabisha,Shoola,Garaja,No Information,Madhyam
+24 Sep 2018,6:16,6:22,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Shukla,Pournima(15),Indu vasara,Poorva Bhadrapada,Ganda,Bhadra,No Information,Ashubha
+25 Sep 2018,6:16,6:21,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Krishna,Pournima(1),Bhauma vasara,Uttara Bhadrapada,Vruddhi,Bava,Paksha Masa Tarpana,Uttam
+26 Sep 2018,6:16,6:20,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Krishna,Pratipada(2),Saumya vasara,Revati,Dhruva,Kaulava,Paksha Masa Tarpana,Shubha
+27 Sep 2018,6:17,6:19,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Krishna,Dwitiya(3),Guru vasara,Ashwini,Vyaghata,Garaja,Paksha Masa Tarpana,Shubha
+28 Sep 2018,6:17,6:19,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Krishna,Tritiya(4),Bhrugu vasara,Bharani,Harshana,Bhadra,Paksha Masa Tarpana,Madhyam
+29 Sep 2018,6:17,6:18,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Krishna,Chaturthi/Panchami(0),Sthira vasara,Kruttika,Vajra,Balava,Paksha Masa Tarpana,Ashubha
+30 Sep 2018,6:17,6:17,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Krishna,Shashthi(6),Ravi vasara,Rohini,Siddhi,Garaja,Paksha Masa Tarpana,Ashubha
+01 Oct 2018,6:17,6:16,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Krishna,Saptami(7),Indu vasara,Mrugashira,Vyatipata,Bhadra,Paksha Masa Tarpana,Ashubha
+02 Oct 2018,6:17,6:15,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Krishna,Astami(8),Bhauma vasara,Aridra,Variyan,Balava,Paksha Masa Tarpana,Ashubha
+03 Oct 2018,6:17,6:15,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Krishna,Navami(9),Saumya vasara,Punarvasu,Parigha,Taitila,Paksha Masa Tarpana,Shubha
+04 Oct 2018,6:18,6:14,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Krishna,Dashami(10),Guru vasara,Pushya,Shiva/Siddha,Vanik,Paksha Masa Tarpana,Madhyam
+05 Oct 2018,6:18,6:13,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Krishna,Ekadashi(0),Bhrugu vasara,Ashlesha,Sadhya,Bava,No Information,Ashubha
+06 Oct 2018,6:18,6:12,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Krishna,Dwadashi(11/12/13),Sthira vasara,Magha,Shubha,Taitila,Paksha Masa Tarpana,Madhyam
+07 Oct 2018,6:18,6:12,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Krishna,Trayodashi(14),Ravi vasara,Poorva Phalguni,Shukla,Vanik,Paksha Masa Tarpana,Ashubha
+08 Oct 2018,6:18,6:11,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Krishna,Chaturdashi(30),Indu vasara,Uttara Phalguni,Brahma,Shakuni,Paksha Masa Tarpana,Ashubha
+09 Oct 2018,6:18,6:10,Dakshinayana,Varsha,Shri Budhi Hrushikesha,Bhadrapada,Krishna,Amavasya(1),Bhauma vasara,Hasta,Aindra,Nagavan,No Information,Ashubha
+10 Oct 2018,6:19,6:09,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Shukla,Pratipada(2),Saumya vasara,Chitra,vaidhriti,Bava,No Information,Ashubha
+11 Oct 2018,6:19,6:09,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Shukla,Dwitiya(3),Guru vasara,Swati,Vishkambha,Kaulava,No Information,10:36 After Ashubha
+12 Oct 2018,6:19,6:08,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Shukla,Tritiya(4),Bhrugu vasara,Vishakha,Preeti,Garaja,No Information,Ashubha
+13 Oct 2018,6:19,6:07,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Shukla,Chaturthi(5),Sthira vasara,Anuradha,Ayushman,Bhadra,No Information,Madhyam
+14 Oct 2018,6:20,6:07,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Shukla,Panchami(6),Ravi vasara,Jyestha,Soubhagya,Balava,No Information,Ashubha
+15 Oct 2018,6:20,6:06,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Shukla,Shashthi(7),Indu vasara,Moola,Shobhana,Taitila,No Information,Madhyam
+16 Oct 2018,6:20,6:05,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Shukla,Saptami(8),Bhauma vasara,Poorvashadha,Atiganda,Vanik,No Information,Ashubha
+17 Oct 2018,6:20,6:05,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Shukla,Astami(9),Saumya vasara,Uttarashadha,Sukarma,Bava,No Information,Uttam
+18 Oct 2018,6:20,6:04,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Shukla,Navami(0),Guru vasara,Shravana,Dhruti,Kaulava,No Information,Ashubha
+19 Oct 2018,6:21,6:03,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Shukla,Dashami(10),Bhrugu vasara,Dhanishta,Shoola,Garaja,No Information,Shubha
+20 Oct 2018,6:21,6:03,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Shukla,Ekadashi(0),Sthira vasara,Shatabhisha,Ganda,Bhadra,No Information,Ashubha
+21 Oct 2018,6:21,6:02,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Shukla,Dwadashi(11/12),Ravi vasara,Poorva Bhadrapada,Vruddhi,Bava,No Information,Ashubha
+22 Oct 2018,6:22,6:01,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Shukla,Trayodashi(13),Indu vasara,Poorva Bhadrapada,Dhruva,Kaulava,No Information,07:40 After Shubha
+23 Oct 2018,6:22,6:01,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Shukla,Chaturdashi(14),Bhauma vasara,Uttara Bhadrapada,Vyaghata,Garaja,No Information,Shubha
+24 Oct 2018,6:22,6:00,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Shukla,Pournima(15),Saumya vasara,Revati,Harshana,Bhadra,No Information,10:22 After Shubha
+25 Oct 2018,6:22,6:00,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Krishna,Pratipada(1),Guru vasara,Ashwini,Vajra,Balava,No Information,09:25 Till Shubha
+26 Oct 2018,6:23,5:59,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Krishna,Dwitiya(2),Bhrugu vasara,Bharani,Siddhi/Vyatipata,Taitila,No Information,Ashubha
+27 Oct 2018,6:23,5:59,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Krishna,Tritiya(3),Sthira vasara,Kruttika,Variyan,Vanik,No Information,Ashubha
+28 Oct 2018,6:23,5:58,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Krishna,Chaturthi(4),Ravi vasara,Rohini,Parigha,Bava,No Information,Shubha
+29 Oct 2018,6:24,5:58,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Krishna,Panchami(5),Indu vasara,Mrugashira,Shiva,Taitila,No Information,Ashubha
+30 Oct 2018,6:24,5:57,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Krishna,Shashthi(6/7),Bhauma vasara,Aridhra/Punarvasu,Siddha,Vanik,No Information,13:10 Till Shubha
+31 Oct 2018,6:24,5:57,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Krishna,Saptami(8),Saumya vasara,Pushya,Sadhya,Bava,No Information,Shubha
+01 Nov 2018,6:25,5:56,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Krishna,Astami(9),Guru vasara,Ashlesha,Shubha,kaulava,No Information,Ashubha
+02 Nov 2018,6:25,5:56,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Krishna,Navami Dashami(10),Bhrugu vasara,Magha,Shukla,Garaja,No Information,Ashubha
+03 Nov 2018,6:26,5:55,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Krishna,Ekadashi(0),Sthira vasara,Poorva Phalguni,Brahma Aindra,Bava,No Information,Ashubha
+04 Nov 2018,6:26,5:55,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Krishna,Dwadashi(0),Ravi vasara,Uttara Phalguni,Vaidhrithi,kaulava,No Information,Ashubha
+05 Nov 2018,6:26,5:55,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Krishna,Trayodashi(11,12,13),Indu vasara,Hasta,Vishkambha,Garaja,No Information,Shubha
+06 Nov 2018,6:27,5:54,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Krishna,Chaturdashi(14),Bhauma vasara,Chitra,Preeti,Bhadra,No Information,Ashubha
+07 Nov 2018,6:27,5:54,Dakshinayana,Sharad,Shri Yajna Padmanabha,Ashwin,Krishna,Amavasya(30),Saumya vasara,Swati,Ayushman,Chatuspat,Darsha,Ashubha
+08 Nov 2018,6:28,5:54,Dakshinayana,Sharad,Shri Indira Damodara,Kartik,Shukla,Pratipada(1),Guru vasara,Vishaka,Soubhagya,kinsthugna,No Information,Shubha
+09 Nov 2018,6:28,5:53,Dakshinayana,Sharad,Shri Indira Damodara,Kartik,Shukla,Dvitiya(2),Bhrugu vasara,Anuradha,Shobhana,Balava,No Information,Shubha
+10 Nov 2018,6:29,5:53,Dakshinayana,Sharad,Shri Indira Damodara,Kartik,Shukla,Tritiya(3),Sthira vasara,Jyestha,Atiganda,Taitila,No Information,Ashubha
+11 Nov 2018,6:29,5:53,Dakshinayana,Sharad,Shri Indira Damodara,Kartik,Shukla,Chaturthi(4),Ravi vasara,Moola,Sukarma,Vanik,No Information,Ashubha
+12 Nov 2018,6:30,5:53,Dakshinayana,Sharad,Shri Indira Damodara,Kartik,Shukla,Panchami(5),Indu vasara,Poorvashadha,Dhruthi,Bava,No Information,Ashubha
+13 Nov 2018,6:30,5:52,Dakshinayana,Sharad,Shri Indira Damodara,Kartik,Shukla,Shashthi(6),Bhauma vasara,Uttarashadha,Shoola,kaulava,No Information,Uttam
+14 Nov 2018,6:31,5:52,Dakshinayana,Sharad,Shri Indira Damodara,Kartik,Shukla,Saptami(7),Saumya vasara,Shravana,Ganda,Garaja,No Information,Madhyam
+15 Nov 2018,6:31,5:52,Dakshinayana,Sharad,Shri Indira Damodara,Kartik,Shukla,Astami(8),Guru vasara,Shravana,Vruddhi,Bhadra,No Information,Ashubha
+16 Nov 2018,6:32,5:52,Dakshinayana,Sharad,Shri Indira Damodara,Kartik,Shukla,Navami(9),Bhrugu vasara,Dhanishta,Dhruva,Balava,No Information,Shubha
+17 Nov 2018,6:32,5:52,Dakshinayana,Sharad,Shri Indira Damodara,Kartik,Shukla,Navami(10),Sthira vasara,Shatabhisha,Vyaghata,Kaulava,No Information,Ashubha
+18 Nov 2018,6:33,5:52,Dakshinayana,Sharad,Shri Indira Damodara,Kartik,Shukla,Dashami(0),Ravi vasara,Poorva Bhadrapada,Harshana,Garaja,No Information,16:28 After Uttam
+19 Nov 2018,6:33,5:52,Dakshinayana,Sharad,Shri Indira Damodara,Kartik,Shukla,Ekadashi(0),Indu vasara,Uttara Bhadrapada,Vajra,Bhadra,No Information,14:26 After Uttam
+20 Nov 2018,6:34,5:51,Dakshinayana,Sharad,Shri Indira Damodara,Kartik,Shukla,Dwadashi(11,12,13),Bhauma vasara,Revati,Siddhi,Balava,No Information,17:20 After Ashubha
+21 Nov 2018,6:34,5:51,Dakshinayana,Sharad,Shri Indira Damodara,Kartik,Shukla,Trayodashi(14),Saumya vasara,Ashwini,Vyatipata,Taitila,No Information,Ashubha
+22 Nov 2018,6:35,5:51,Dakshinayana,Sharad,Shri Indira Damodara,Kartik,Shukla,Chaturdashi(15),Guru vasara,Bharani,Variyan,Vanik,No Information,Ashubha
+23 Nov 2018,6:35,5:51,Dakshinayana,Sharad,Shri Indira Damodara,Kartik,Shukla,Pournima(1),Bhrugu vasara,Kruttika,Parigha,Bava,No Information,Ashubha
+24 Nov 2018,6:36,5:51,Dakshinayana,Sharad,Shri Indira Damodara,Kartik,Krishna,Pratipada(2),Sthira vasara,Rohini,Shiva,Kaulava,No Information,Uttam
+25 Nov 2018,6:36,5:51,Dakshinayana,Sharad,Shri Indira Damodara,Kartik,Krishna,Dvitiya(3),Ravi vasara,Mrugashira,Siddha Sadhya,Garaja,No Information,Ashubha
+26 Nov 2018,6:37,5:51,Dakshinayana,Sharad,Shri Indira Damodara,Kartik,Krishna,Tritiya Chaturthi(4),Indu vasara,Aridra,Shubha,Bhadra,No Information,11:39 After Shubha
+27 Nov 2018,6:38,5:52,Dakshinayana,Sharad,Shri Indira Damodara,Kartik,Krishna,Panchami(5),Bhauma vasara,Punarvasu,Shukla,kaulava,No Information,Shubha
+28 Nov 2018,6:38,5:52,Dakshinayana,Sharad,Shri Indira Damodara,Kartik,Krishna,Shashthi(6),Saumya vasara,Pushya,Brahma,Garaja,No Information,Ashubha
+29 Nov 2018,6:39,5:52,Dakshinayana,Sharad,Shri Indira Damodara,Kartik,Krishna,Saptami(7),Guru vasara,Ashlesha,Aindra,Bhadra,No Information,Ashubha
+30 Nov 2018,6:39,5:52,Dakshinayana,Sharad,Shri Indira Damodara,Kartik,Krishna,Astami(8),Bhrugu vasara,Magha,Vaidhrithi,Balava,No Information,Ashubha
+01 Dec 2018,6:40,5:52,Dakshinayana,Sharad,Shri Indira Darmodara,Kartik,Krishna,Navami(9),Sthira Vasara,Poorva Palguni,Vishkambha,Garaja,No Information,Uttam
+02 Dec 2018,6:40,5:52,Dakshinayana,Sharad,Shri Indira Darmodara,Kartik,Krishna,Dashami(10),Ravi Vasara,Hasta,Preeti Ayushman,Bhadra,No Information,14:04 after Shubha
+03 Dec 2018,6:41,5:52,Dakshinayana,Sharad,Shri Indira Darmodara,Kartik,Krishna,Ekadashi(0),Indu Vasara,Chitra,Soubhagya,Balava,No Information,Shubha
+04 Dec 2018,6:42,5:53,Dakshinayana,Sharad,Shri Indira Darmodara,Kartik,Krishna,Dwadashi(11,12,13),Bhauma Vasara,Swati,Shobana,Taitila,No Information,Shubha
+05 Dec 2018,6:42,5:53,Dakshinayana,Sharad,Shri Indira Darmodara,Kartik,Krishna,Trayodashi(14),Saumya Vasara,Vishakha,Atiganda,Vanik,No Information,Ashubha
+06 Dec 2018,6:43,5:53,Dakshinayana,Sharad,Shri Indira Darmodara,Kartik,Krishna,Chaturdashi(30),Guru Vasara,Anuradha,Sukarma,Shakuni,Darsha,Ashubha
+07 Dec 2018,6:43,5:53,Dakshinayana,Sharad,Shri Indira Darmodara,Kartik,Krishna,Amavasya(1),Bhrugu Vasara,Jyeshta,Dhruti,Nagavan,No Information,Ashubha
+08 Dec 2018,6:44,5:54,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Shukla,Pratipada(2),Sthira Vasara,Moola,Shoola,Bava,No Information,Madhyam
+09 Dec 2018,6:45,5:54,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Shukla,Dvitiya(0),Ravi Vasara,Moola,Ganda,Kaulava,No Information,Ashubha
+10 Dec 2018,6:45,5:54,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Shukla,Tritiya(3),Indu Vasara,Poorvashadha,Vruddhi,Garaja,No Information,10:40 after Uttam
+11 Dec 2018,6:46,5:55,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Shukla,Chaturthi(4),Bhauma Vasara,Uttarashadha,Dhruva,Bhadra,No Information,Ashubha
+12 Dec 2018,6:46,5:55,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Shukla,Panchami(5),Saumya Vasara,Shravana,Vyaghata,Balava,No Information,Shubha
+13 Dec 2018,6:47,5:55,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Shukla,Shashthi(6),Guru Vasara,Dhanishta,Harshana,Kaulava,No Information,Shubha
+14 Dec 2018,6:47,5:56,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Shukla,Saptami(7),Bhrugu Vasara,Shatabhisha,Vajra,Garaja,No Information,Madhyam
+15 Dec 2018,6:48,5:56,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Shukla,Ashtami(8),Sthira Vasara,Poorva Bhadrapada,Siddhi,Bhadra,No Information,Ashubha
+16 Dec 2018,6:49,5:57,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Shukla,Navami(9),Ravi Vasara,Uttara Bhadrapada,Vyatipata,Balava,No Information,Ashubha
+17 Dec 2018,6:49,5:57,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Shukla,Dashami(10),Indu Vasara,Revati,Variyan,Taitila,No Information,Shubha
+18 Dec 2018,6:50,5:57,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Shukla,Ekadashi(0),Bhauma Vasara,Ashwini,Parigha,Vanik,No Information,Shubha
+19 Dec 2018,6:50,5:58,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Shukla,Dwadashi(11,12),Saumya Vasara,Bharani,Shiva,Bava,No Information,Ashubha
+20 Dec 2018,6:51,5:58,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Shukla,Trayodashi(13),Guru Vasara,Kruttika,Siddha,Kaulava,No Information,Ashubha
+21 Dec 2018,6:51,5:59,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Shukla,Chaturdashi(14),Bhruga Vasara,Rohini,Sadhya,Garaja,No Information,Uttam
+22 Dec 2018,6:52,5:59,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Shukla,Pournima(15),Sthira Vasara,Mrugashira,Shubha,Bhadra,No Information,12:41 after Shubha
+23 Dec 2018,6:52,6:00,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Krishna,Pratipada(1),Ravi Vasara,Aridra,Shukla,Balava,No Information,Ashubha
+24 Dec 2018,6:53,6:00,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Krishna,Dvitiya(2),Indu Vasara,Punarvasu,Brahma Aindra,Taitila,No Information,Shubha
+25 Dec 2018,6:53,6:01,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Krishna,Tritiya(3),Bhauma Vasara,Pushya,Vaidhriti,Vanik,No Information,Ashubha
+26 Dec 2018,6:54,6:01,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Krishna,Chaturthi(4,5),Saumya Vasara,Ashlesha,Vishkambha,Balava,No Information,Ashubha
+27 Dec 2018,6:54,6:02,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Krishna,Panchami(6),Guru Vasara,Magha,Preeti,Tailtila,No Information,Ashubha
+28 Dec 2018,6:54,6:03,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Krishna,Shashthi(7),Bhrugu Vasara,Poorva Phalguni,Ayushman,Vanik,No Information,Ashubha
+29 Dec 2018,6:55,6:03,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Krishna,Saptami(8),Sthira Vasara,Uttara Phalguni,Saoubhagya,Bava,No Information,Shubha
+30 Dec 2018,6:55,6:04,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Krishna,Ashtami Navami(9),Ravi Vasara,Hasta,Shobana,Balava,No Information,Shubha
+31 Dec 2018,6:56,6:04,Dakshinayana,Hemant,Shri Shri Keshav,Margasheesha,Krishna,Dashami(10),Indu Vasara,Chitra,Atiganda,Vanik,No Information,Shubha
+01 Jan 2019,6:56,6:05,dakshinayana,hemanth,shri shri keshav,margasheesha,krishna,ekadashi(0),bhauma vasara,swati,sukarma dhruti,bava,No Information,No Information
+02 Jan 2019,6:56,6:05,dakshinayana,hemanth,shri shri keshav,margasheesha,krishna,dwadashi(11 12),saumya vasara,vishakha,shoola,kaulava,No Information,No Information
+03 Jan 2019,6:57,6:06,dakshinayana,hemanth,shri shri keshav,margasheesha,krishna,trayodashi(13),guru vasara,anuradha,ganda,garaja,No Information,No Information
+04 Jan 2019,6:57,6:07,dakshinayana,hemanth,shri shri keshav,margasheesha,krishna,chaturdashi(14),bhrugu vasara,jyestha,vruddhi,bhadra,No Information,No Information
+05 Jan 2019,6:57,6:07,dakshinayana,hemanth,shri shri keshav,margasheesha,krishna,amavasya(30),sthira vasara,moola,dhruva,chatuspat,No Information,No Information
+06 Jan 2019,6:58,6:08,dakshinayana,hemanth,shri lakshmi narayana,poushya,shukla,pratipada(1),ravi vasara,poorvashadha,vyaghata,kinstugna,No Information,No Information
+07 Jan 2019,6:58,6:08,dakshinayana,hemanth,shri lakshmi narayana,poushya,shukla,pratipada(2),indu vasara,uttarashadha,harshana,bava,No Information,No Information
+08 Jan 2019,6:58,6:09,dakshinayana,hemanth,shri lakshmi narayana,poushya,shukla,dvitiya(3),bhauma vasara,shrvana,vajra,kaulava,No Information,No Information
+09 Jan 2019,6:58,6:10,dakshinayana,hemanth,shri lakshmi narayana,poushya,shukla,tritiya(4),saumya vasara,dhanishta,siddhi,garaja,No Information,No Information
+10 Jan 2019,6:59,6:10,dakshinayana,hemanth,shri lakshmi narayana,poushya,shukla,chaturthi(0), guru vasara,shatabhisha,vyaghata,bhadra,No Information,No Information
+11 Jan 2019,6:59,6:11,dakshinayana,hemanth,shri lakshmi narayana,poushya,shukla,panchami(5),bhrugu vasara,poorva bhadrapada,variyana,balava,No Information,No Information
+12 Jan 2019,6:59,6:12,dakshinayana,hemanth,shri lakshmi narayana,poushya,shukla,shashthi(6),sthira vasara,uttara bhadrapada,parigha,taitila,No Information,No Information
+13 Jan 2019,6:59,6:12,dakshinayana,hemanth,shri lakshmi narayana,poushya,shukla,saptami(7),ravi vasara,uttara bhadarapada,shiva,vanik,No Information,No Information
+14 Jan 2019,6:59,6:13,dakshinayana,hemanth,shri lakshmi narayana,poushya,shukla,astami(8),indu vasara,revati,siddha,bhadra,No Information,No Information
+15 Jan 2019,6:59,6:13,uttarayana,hemanth,shri lakshmi narayana,poushya,shukla,navami(9),bhauma vasara,ashwini,sadhya,balava,No Information,No Information
+16 Jan 2019,7:00,6:14,uttarayana,hemanth,shri lakshmi narayana,poushya,shukla,dashami(10),saumya vasara,bharani,shubha,taitila,No Information,No Information
+17 Jan 2019,7:00,6:15,uttarayana,hemanth,shri lakshmi narayana,poushya,shukla,ekadashi(0),guru vasara,kruttika,shukla,bhadra,No Information,No Information
+18 Jan 2019,7:00,6:15,uttarayana,hemanth,shri lakshmi narayana,poushya,shukla,dwadashi(11 12),bhrugu vasara,rohini,brahma,balava,No Information,No Information
+19 Jan 2019,7:00,6:16,uttarayana,hemanth,shri lakshmi narayana,poushya,shukla,trayodashi(13 14),sthira vasara,mrugashira,aindra,taitila,No Information,No Information
+20 Jan 2019,7:00,6:16,uttarayana,hemanth,shri lakshmi narayana,poushya,shukla,chaturdashi(15),ravi vasara,aridra punarvasu,vaidhriti,vanik,No Information,No Information
+21 Jan 2019,7:00,6:17,uttarayana,hemanth,shri lakshmi narayana,poushya,shukla,pournima(1),indu vasara,pushya,vishkambha,bava,No Information,No Information
+22 Jan 2019,7:00,6:17,uttarayana,Hemanth,shri lakshmi narayana,poushya,krishna,pratipada(2),bhauma vasara,ashlesha,preeti/ayushman,kaulava,No Information,No Information
+23 Jan 2019,7:00,6:18,uttarayana,hemanth,shri lakshmi narayana,poushya,krishna,tritiya(3),saumya vasara,magha,soubhagya,taitila,No Information,No Information
+24 Jan 2019,7:00,6:19,uttarayana,hemanth,shri lakshmi narayana,poushya,krishna,chaturthi(4),guru vasara,poorava phalguni,shobhana,bava,No Information,No Information
+25 Jan 2019,7:00,6:19,uttarayana,hemanth,shri lakshmi narayana,poushya,krishna,panchami(5),bhrugu vasara,uttara phalguni,atiganda,kaulava,No Information,No Information
+26 Jan 2019,6:59,6:02,uttarayana,hemanth,shri lakshmi narayana,poushya,krishna,shashthi(6),sthira vasara,hasta,sukarma,garaja,No Information,No Information
+27 Jan 2019,6:59,6:20,uttarayana,hemanth,shri lakshmi narayana,poushya,krishna,saptami(7),ravi vasara,chitra,dhruti,bhadra,No Information,No Information
+28 Jan 2019,6:59,6:21,uttarayana,hemanth,shri lakshmi narayana,poushya,krishna,astami(8),indu vasara,swati,shoola,balava,No Information,No Information
+29 Jan 2019,6:59,6:21,uttarayana,hemanth,shri lakshmi narayana,poushya,krishna,navami(9),bhauma vasara,vishakha,ganda,taitila,No Information,No Information
+30 Jan 2019,6:59,6:22,uttarayana,hemanth,shri lakshmi narayana,poushya,krishna,dashami(10),saumya vasara,anuradha,vruddhi,bhadra,No Information,No Information
+31 Jan 2019,6:59,6:22,uttarayana,hemanth,shri lakshmi narayana,poushya,krishna,ekadashi(0),guru vasara,jyestha,dhruva,bava,No Information,No Information
+01 Feb 2019,6:58,6:23,Uttarayana,Hemant,Shri Lakshmi Narayana,Poushya,Krishna,Dwadashi(11,12),Bhrugu vasara,Moola,Vyagatha,Kaulava,No Information,No Information
+02 Feb 2019,6:58,6:23,Uttarayana,Hemant,Shri Lakshmi Narayana,Poushya,Krishna,Trayodashi(13),Sthira vasara,Poorvashada,Harshana,Garaja,No Information,No Information
+03 Feb 2019,6:58,6:24,Uttarayana,Hemant,Shri Lakshmi Narayana,Poushya,Krishna,Chaturdashi(14),Ravi vasara,Uttarshada,Vajra,Bhadra,No Information,No Information
+04 Feb 2019,6:58,6:24,Uttarayana,Hemant,Shri Lakshmi Narayana,Poushya,Krishna,Amavasya(30),Indu vasara,Shravana,Siddhi,Chatuspat,No Information,No Information
+05 Feb 2019,6:57,6:25,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Shukla,Pratipada(1),Bhauma vasara,Dhanishta,Vyatipata,Kinsthugna,No Information,No Information
+06 Feb 2019,6:57,6:25,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Shukla,Dvitiya(2),Saumya vasara,Dhanista,Variyan,Balava,No Information,No Information
+07 Feb 2019,6:57,6:26,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Shukla,Tritiya(3),Guru vasara,Shatabhisha,Parigha,Taitila,No Information,No Information
+08 Feb 2019,6:56,6:26,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Shukla,Tritiya(4),Bhrugu vasara,Poorva Bhadrapada,Shiva,Garaja,No Information,No Information
+09 Feb 2019,6:56,6:27,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Shukla,Chaturthi(5),Sthira vasara,Uttra Bhadrapada,Siddha,Bhadra,No Information,No Information
+10 Feb 2019,6:56,6:27,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Shukla,Panchami(6),Ravi vasara,Revati,Sadhya,Balava,No Information,No Information
+11 Feb 2019,6:55,6:28,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Shukla,Shashti(7),Indu vasara,Ashwini,Shubha,Taitila,No Information,No Information
+12 Feb 2019,6:55,6:28,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Shukla,Saptami(8),Bhauma vasara,Barani,Shukla Brahma,Vanik,No Information,No Information
+13 Feb 2019,6:54,6:28,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Shukla,Ashtami(9),Saumya vasara,Kruttika,Aindra,Bava,No Information,No Information
+14 Feb 2019,6:54,6:29,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Shukla,Navami(10),Guru vasara,Rohini,Vaidhriti,Kaulava,No Information,No Information
+15 Feb 2019,6:53,6:29,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Shukla,Dashami Ekadashi(0),Bhrugu vasara,Mrugashira,Vishkambha,Garaja,No Information,No Information
+16 Feb 2019,6:53,6:30,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Shukla,Dwadashi(0),Sthira vasara,Aridra,Reeti,Bava,No Information,No Information
+17 Feb 2019,6:52,6:30,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Shukla,Trayodashi(11,12,13),Ravi vasara,Punarvasu,Ayushman,Kaulava,No Information,No Information
+18 Feb 2019,6:52,6:30,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Shukla,Chaturdashi(14),Indu vasara,Pushya,Soubhagya,Garaja,No Information,No Information
+19 Feb 2019,6:51,6:31,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Shukla,Pournima(15),Bhauma vasara,Ashlesha,Shobana,Bhadra,No Information,No Information
+20 Feb 2019,6:51,6:31,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Krishna,Pratipada(1),Saumya vasara,Magha,Atiganda Sukarma,Balava,No Information,No Information
+21 Feb 2019,6:50,6:31,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Krishna,Dvitiya(2),Guru vasara,Poorva Uttara,Dhruti,Garaja,No Information,No Information
+22 Feb 2019,6:50,6:32,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Krishna,Tritiya(3,4),Bhrugu vasara,Hasta,Shoola,Bhadra,No Information,No Information
+23 Feb 2019,6:49,6:32,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Krishna,Chaturthi(5),Sthira vasara,Chitra,Ganda,Balava,No Information,No Information
+24 Feb 2019,6:49,6:32,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Krishna,Panchami(6),Ravi vasara,Swati,Vruddhi,Taitila,No Information,No Information
+25 Feb 2019,6:48,6:33,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Krishna,Shashti(7),Indu vasara,Vishakha,Dhruva,Vanik,No Information,No Information
+26 Feb 2019,6:47,6:33,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Krishna,Sapthami(8),Bhauma vasara,Anuradha,Vyaghata,Bava,No Information,No Information
+27 Feb 2019,6:47,6:33,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Krishna,Astami(9),Saumya vasara,Jyeshta,Harshana,Kaulava,No Information,No Information
+28 Feb 2019,6:46,6:33,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Krishna,Navami(10),Guru vasara,Moola,Vajra,Garajas,No Information,No Information
+01 Mar 2019,6:45,6:34,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Krishna,Dashami(0),Bhrugu vasara,Poorvashadha,Siddhi,Bhadra,No Information,No Information
+02 Mar 2019,6:45,6:34,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Krishna,Ekadashi(0),Sthira vasara,Poorvashadha,Vyatipata,Balava,No Information,No Information
+03 Mar 2019,6:44,6:34,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Krishna,Dwadashi(11,12),Ravi vasara,Uttarashadha,Variyan,Taitila,No Information,No Information
+04 Mar 2019,6:43,6:35,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Krishna,Trayodashi(13),Indu vasara,Shravana,Parigha,Vanik,No Information,No Information
+05 Mar 2019,6:43,6:35,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Krishna,Chaturdashi(14),Bhauma vasara,Dhanishta,Shiva,Shakuni,No Information,No Information
+06 Mar 2019,6:42,6:35,Uttarayana,Shishira,Shri Kamala Madhava,Magha,Krishna,Amavasya(30),Saumya vasara,Shatabhisha,Siddha,Chatuspat,No Information,No Information
+07 Mar 2019,6:41,6:35,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Shukla,Pratipada(1),Guru vasara,Poorva Bhadrapada,Sadhya,Kinsthugna,No Information,No Information
+08 Mar 2019,6:41,6:36,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Shukla,Dvitiya(2),Bhrugu vasara,Uttara Bhadrapada,Shubha,Balava,No Information,No Information
+09 Mar 2019,6:40,6:36,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Shukla,Tritiya(3),Sthira vasara,Revati,Shukla,Taitila,No Information,No Information
+10 Mar 2019,6:39,6:36,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Shukla,Chaturthi(4),Ravi vasara,Ashwini,Brahma,Vanik,No Information,No Information
+11 Mar 2019,6:39,6:36,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Shukla,Panchami(5),Indu vasara,Bharani,Aindra,Bava,No Information,No Information
+12 Mar 2019,6:38,6:36,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Shukla,Shashthi(6),Bhauma vasara,Kruttika,Vaidhriti,Kaulava,No Information,No Information
+13 Mar 2019,6:37,6:37,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Shukla,Saptami(7),Saumya vasara,Rohini,Vishkambha,Garaja,No Information,No Information
+14 Mar 2019,6:36,6:37,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Shukla,Astami(8),Guru vasara,Mrugashira,Preeti Ayushman,Bhadra,No Information,No Information
+15 Mar 2019,6:36,6:37,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Shukla,Navami(9),Bhrugu vasara,Aridra,Soubhagya,Balava,No Information,No Information
+16 Mar 2019,6:35,6:37,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Shukla,Dashami(10),Sthira vasara,Punarvasu,Shobhana,Taitila,No Information,No Information
+17 Mar 2019,6:34,6:37,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Shukla,Ekadashi(0),Ravi vasara,Pushya,Atiganda,Bhadra,No Information,No Information
+18 Mar 2019,6:33,6:38,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Shukla,Dwadashi(11,12,13),Indu vasara,Ashlesha,Sukarma,Balava,No Information,No Information
+19 Mar 2019,6:33,6:38,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Shukla,Trayodashi(14),Bhauma vasara,Magha,Dhruthi,Taitila,No Information,No Information
+20 Mar 2019,6:32,6:38,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Shukla,Chaturdashi(15),Saumya vasara,Poorva Phalguni,Shoola,Vanik,No Information,No Information
+21 Mar 2019,6:31,6:38,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Shukla,Pournima Pratipada(1),Guru vasara,Uttara Phalguni,Ganda,Nagavan,No Information,No Information
+22 Mar 2019,6:30,6:38,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Krishna,Dvitiya(2),Bhrugu vasara,Hasta,Vruddhi Dhruva,Taitila,No Information,No Information
+23 Mar 2019,6:29,6:38,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Krishna,Tritiya(3),Sthira vasara,Chitra,Vyaghata,Vanik,No Information,No Information
+24 Mar 2019,6:29,6:39,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Krishna,Chaturthi(4),Ravi vasara,Swati,Harshana,Bava,No Information,No Information
+25 Mar 2019,6:28,6:39,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Krishna,Panchami(5),Indu vasara,Vishakha,Vajra,Kaulava,No Information,No Information
+26 Mar 2019,6:27,6:39,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Krishna,Shasthi(6),Bhauma vasara,Anuradha,Siddhi,Garaja,No Information,No Information
+27 Mar 2019,6:26,6:39,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Krishna,Saptami(7),Saumya vasara,Jyestha,Vyatipata,Bhadra,No Information,No Information
+28 Mar 2019,6:26,6:39,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Krishna,Astami(8),Guru vasara,Moola,Variyan,Balava,No Information,No Information
+29 Mar 2019,6:25,6:40,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Krishna,Navami(9),Bhrugu vasara,Poorvashadha,Parigha,Taitila,No Information,No Information
+30 Mar 2019,6:24,6:40,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Krishna,Dashami(10),Sthira vasara,Uttarashadha,Shiva,Vanik,No Information,No Information
+31 Mar 2019,6:23,6:40,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Krishna,Ekadashi(0),Ravi vasara,Shravana,Siddha,Bava,No Information,No Information
+01 Apr 2019,6:22,6:40,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Krishna,Dwadashi(11 12),Indu vasara,Dhanishata,Sadhya,Kaulava,No Information,No Information
+02 Apr 2019,6:22,6:40,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Krishna,Dwadashi(13),Bhauma vasara,Shatabhisha,Shubha,Taitila,No Information,No Information
+03 Apr 2019,6:21,6:40,Uttarayana,Shishira,Shri Padma Govind,Phalguna,Krishna,trayodashi(14),Saumya vasara,Poorva Bhadrapada,Shukla,Vanik,No Information,No Information
+04 Apr 2019,6:20,6:40,Uttarayana,shishira,Shri Padwa Govind,Phalguna,Krishna,Chaturdashi(30),Guru vasara,Uttara Bhadrapada,Brahma,Shakuni,No Information,No Information

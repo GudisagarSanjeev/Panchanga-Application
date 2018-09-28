@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/circularbutton.png</file>
+        <file>Images/left.png</file>
+        <file>Images/leftTop.png</file>
+        <file>Images/menu.png</file>
+        <file>Images/rigthArrow.png</file>
+    </qresource>
+</RCC>

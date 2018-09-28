@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>AddCustomEvent.qml</file>
+        <file>AshubhaShubhaPage.qml</file>
+        <file>ButtonsDesignPage.qml</file>
+        <file>ButtonsPage.qml</file>
+        <file>ContentMenu.qml</file>
+        <file>EntryHomePage.qml</file>
+        <file>EventViewPage.qml</file>
+        <file>EventViewPageDelegate.qml</file>
+        <file>GaligeDelegate.qml</file>
+        <file>HomePage.qml</file>
+        <file>InformationPage.qml</file>
+        <file>InformationPageDelegate.qml</file>
+        <file>InformationPageText.qml</file>
+        <file>MainHeader.qml</file>
+        <file>SpecailDayDelegate.qml</file>
+        <file>SunInformation.qml</file>
+        <file>SunInformationDelegate.qml</file>
+        <file>TarpanaDelegate.qml</file>
+        <file>TarpanaPage.qml</file>
+        <file>kn.qm</file>
+        <file>CalenderPage.qml</file>
+        <file>hindi.qm</file>
+        <file>tamil.qm</file>
+        <file>telugu.qm</file>
+    </qresource>
+</RCC>
